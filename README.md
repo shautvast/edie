@@ -21,7 +21,7 @@ class Person{
 ```
 Factory.define(Person.class, () -> new Person("John", 48));
 ```
-* Create instances like so:
+* Then create instances like so:
 ```
 Person person = Factory.build(Person.class)
 ```
@@ -31,8 +31,15 @@ Person person = Factory.build(Person.class)
 Person person = Factory.build(Person.class, p -> p.setAge(25));
 ```
 This will result in an object 
-```json 
+``` 
 {name: "John", age: 25}
 ```
 
 Meaning the template can be customized later on
+
+_More features_
+* Factory can also create more complex (nested) objects
+* random numbers
+* counters
+* etc see FactoryTests.java
+ 
