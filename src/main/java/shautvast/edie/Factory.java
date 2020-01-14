@@ -6,9 +6,8 @@ import java.util.concurrent.ConcurrentMap;
 import java.util.function.Supplier;
 
 /**
- *
+ * Contains the definitions and the factory methods to create defintions and test dummies.
  */
-
 @SuppressWarnings({"rawtypes","unchecked"})
 public class Factory {
 
