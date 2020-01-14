@@ -37,7 +37,7 @@ This will result in an object
 
 Meaning the template can be customized later on
 
-_More features_
+__More features__
 * Factory can also create more complex (nested) objects
 * random numbers
 * counters
