@@ -1,4 +1,4 @@
-This project is called Edie after Edie Sedgwick who was one of the artists in Andy Warhols Factory. 
+This little project is called Edie after Edie Sedgwick who was one of the artists in Andy Warhols Factory. 
 The film about her life is called Factory Girl (2006). 
 This project was inspired by the FactoryGirl project that was later renamed FactoryBot. 
 
